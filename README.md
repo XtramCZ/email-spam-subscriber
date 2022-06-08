@@ -2,6 +2,7 @@
 - Email-spam-subscriber is a tool for subscribing mass amount of emails to spam newsletters, this tool is for testing purposes only.
 
 ## ⛔I'm not responsible for any malicious use⛔
+### THIS PROJECT IS NO LONGER MAINTAINED
 
 ## How to set up
 
